@@ -15,3 +15,6 @@ def load_spread_data():
 
 def load_teams_data():
     return pd.read_csv('nflStatsModule/utilities/data/nfl_teams.csv')
+
+def load_stadium_data():
+    return pd.read_csv('nflStatsModule/utilities/data/nfl_stadiums.csv')

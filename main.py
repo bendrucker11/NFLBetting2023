@@ -6,4 +6,4 @@ import nflStatsModule.utilities.data_loader as dl
 #     analyze_stadium_data()
 
 
-print(dl.load_teams_data())
+print(dl.load_stadium_data())

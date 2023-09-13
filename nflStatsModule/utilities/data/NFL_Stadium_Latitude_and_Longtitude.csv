@@ -1,0 +1,45 @@
+Team,Conference,latitude,longitude,zip,pic,
+Tennessee Titans,AFC,36.166461,-86.771289,37213,y,g
+Tennessee Oilers,AFC,36.166461,-86.771289,37213,y,g
+New York Giants,NFC,40.812194,-74.076983,10021,y,
+Pittsburgh Steelers,AFC,40.446786,-80.015761,15202,y,
+Carolina Panthers,NFC,35.225808,-80.852861,28202,y,g
+Baltimore Ravens,AFC,39.277969,-76.622767,21203,y,g
+Baltimore Colts,AFC,39.277969,-76.622767,21203,y,g
+Tampa Bay Buccaneers,NFC,27.975967,-82.50335,33607,y,g
+Indianapolis Colts,AFC,39.760056,-86.163806,46201,y,
+Minnesota Vikings,NFC,44.973881,-93.258094,56760,y,
+Arizona Cardinals,NFC,33.5277,-112.262608,63102,y,
+Phoenix Cardinals,NFC,33.5277,-112.262608,63102,y,
+Dallas Cowboys,NFC,32.747778,-97.092778,75203,y,
+Atlanta Falcons,NFC,33.757614,-84.400972,30303,y,
+New York Jets,AFC,40.812194,-74.076983,10001,y,
+Denver Broncos,AFC,39.743936,-105.020097,28037,y,g
+Miami Dolphins,AFC,25.957919,-80.238842,33102,y,
+Philadelphia Eagles,NFC,39.900775,-75.167453,19092,y,
+Chicago Bears,NFC,41.862306,-87.616672,60602,y,
+New England Patriots,AFC,42.090925,-71.26435,58647,y,
+Boston Patriots,AFC,42.090925,-71.26435,58647,y,
+Washington Redskins,NFC,38.907697,-76.864517,20575,y,
+Washington Football Team,NFC,38.907697,-76.864517,20575,y,
+Washington Commanders,NFC,38.907697,-76.864517,20575,y,
+Green Bay Packers,NFC,44.501306,-88.062167,54301,y,
+Los Angeles Chargers,AFC,32.783117,-117.119525,92103,y,
+San Diego Chargers,AFC,32.783117,-117.119525,92103,y,
+New Orleans Saints,NFC,29.950931,-90.081364,70112,y,g
+Houston Texans,AFC,29.684781,-95.410956,77002,y,
+Houston Oilers,AFC,29.684781,-95.410956,77002,y,
+Buffalo Bills,AFC,42.773739,-78.786978,14202,y,g
+San Francisco 49ers,NFC,37.713486,-122.386256,94102,y,
+Jacksonville Jaguars,AFC,30.323925,-81.637356,32099,y,
+Cleveland Browns,AFC,41.506022,-81.699564,44114,y,
+Las Vegas Raiders,AFC,37.751411,-122.200889,94502,y,g
+Oakland Raiders,AFC,32.783117,-117.119525,92103,y,
+Kansas City Chiefs,AFC,39.048914,-94.484039,66027,y,
+Los Angeles Rams,NFC,38.632975,-90.188547,63101,y,
+Los Angeles Raiders,NFC,38.632975,-90.188547,63101,y,
+St. Louis Rams,AFC,39.048914,-94.484039,66027,y,
+St. Louis Cardinals,AFC,39.048914,-94.484039,66027,y,
+Seattle Seahawks,NFC,47.595153,-122.331625,98102,y,
+Cincinnati Bengals,AFC,39.095442,-84.516039,45202,y,
+Detroit Lions,NFC,42.340156,-83.045808,48205,y,

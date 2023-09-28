@@ -29,5 +29,14 @@ def games_distance_traveled(year):
     '''Return a table that contains game data with the distance traveled by the away team.'''
     df = fl.load_game_data()
     df = f.filter_since_year(df, year)
-    df = f.clean_over_under(df)
     return add_distance_col(df)
+
+def ou_temp_distance_table(year, min_temp=None, max_temp=None):
+    df = games_distance_traveled(year)
+    df = f.clean_over_under(df)
+    df = f.clean_temperature(df)
+    if min_temp:
+        df = f.min_temp(df, min_temp)
+    if max_temp:
+        df = f.max_temp(df ,max_temp)
+    return df

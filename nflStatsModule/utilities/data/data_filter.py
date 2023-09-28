@@ -32,3 +32,16 @@ def clean_over_under(df):
         df.at[index, "over_under_result"] = result
     df["over_under_line"] = df["over_under_line"].astype(float)
     return df
+
+
+def clean_temperature(df):
+    '''Removes games without temperature'''
+    df = df.dropna(subset=['weather_temperature'])
+    return df
+
+def min_temp(df, temp):
+    return df[df['weather_temperature'] >= temp]
+
+
+def max_temp(df, temp):
+    return df[df['weather_temperature'] <= temp]

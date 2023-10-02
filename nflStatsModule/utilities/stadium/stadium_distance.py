@@ -1,6 +1,5 @@
 from ..data import file_loader as fl
 from ..data import data_filter as f
-import pandas as pd
 from geopy.distance import geodesic as GD
 
 

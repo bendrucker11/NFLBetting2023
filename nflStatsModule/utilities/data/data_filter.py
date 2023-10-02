@@ -45,3 +45,15 @@ def min_temp(df, temp):
 
 def max_temp(df, temp):
     return df[df['weather_temperature'] <= temp]
+
+# def get_team() 
+# func to filter by specific team. Will have to handle that St Louis Rams = Los Angeles Rams (Manually)
+
+def get_player(df, name):
+    return df[df['name'] == name]
+
+def drop_playoff_games(df):
+    return df[df["schedule_playoff"] == False]
+
+def simplify_teams_df(df):
+    return df.loc[:, ['team_name', 'team_id', 'team_conference', 'team_division']]
